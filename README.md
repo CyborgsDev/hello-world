@@ -5,3 +5,4 @@ I like technologies of course. I am an IT manager and don't code anymore profess
 I enjoy java but I want to learn about microservices, docker, javascript, C#
 
 Merci beaucoup!
+Au revoir!
